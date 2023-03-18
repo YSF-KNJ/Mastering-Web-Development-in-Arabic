@@ -35,8 +35,7 @@
 - [Sqlite3]
 - [FastApi]
 - [MongoDb]
-- [Requests]
-- [Beuatifulsuop]
+
 
 
 ## مواضيع أخرى
