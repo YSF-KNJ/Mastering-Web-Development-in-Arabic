@@ -16,6 +16,7 @@ A Step-by-Step Learning Plan
 ## Step 3 - Programming Languages and Frameworks
 - [JavaScript](#javascript)
 - [Python](#python)
+- [Sql](#sql)
 - [Flask](#flask)
 - [Django](#django)
 
