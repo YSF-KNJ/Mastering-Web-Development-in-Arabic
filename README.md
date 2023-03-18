@@ -47,7 +47,10 @@
 
 ## مصادر مهمة
 - [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)
+- [Mahmoud Ahmed](https://www.youtube.com/@MahmoudAhmed6/)
 - [منصة سطر التعليمية](https://satr.codes/)
+- [Nour Homsi](https://www.youtube.com/@NourHomsi)
+- [Codezilla](https://www.youtube.com/@Codezilla)
 - [Ebrahem](https://www.youtube.com/@Zigoo0)
 
 
