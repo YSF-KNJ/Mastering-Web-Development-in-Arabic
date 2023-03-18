@@ -30,4 +30,12 @@ A Step-by-Step Learning Plan
 - [FastApi](#fastapi)
 - [MongoDb](#MongoDb)
 
+## Other Topics
+- [Linux](#linux)
+- [CCNA](#ccna)
+- [Penetration Testing](#penetration-testing)
+- [Security](#security)
+
+## The Journey That Never Ends
+It's important to remember that the learning path for web development never really ends. Even after mastering the topics listed in this plan, there is always more to learn and new technologies to discover. Keep exploring and never stop learning! 
 
