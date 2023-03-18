@@ -16,6 +16,7 @@ A Step-by-Step Learning Plan
 ## Step 3 - Programming Languages and Frameworks
 - [JavaScript](#javascript)
 - [Python](#python)
+- [Flask](#flask)
 - [Django](#django)
 
 ## Step 4 - Advanced Topics
@@ -24,3 +25,4 @@ A Step-by-Step Learning Plan
 - [Bootstrap Template](#bootstrap-template)
 - [Vue.js](#vuejs)
 - [MySQL](#mysql)
+- [FastApi](#fastapi)
