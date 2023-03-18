@@ -24,5 +24,9 @@ A Step-by-Step Learning Plan
 - [Sass Template](#sass-template)
 - [Bootstrap Template](#bootstrap-template)
 - [Vue.js](#vuejs)
+- [TypeScript](#typescript)
 - [MySQL](#mysql)
 - [FastApi](#fastapi)
+- [MongoDb](#MongoDb)
+
+
