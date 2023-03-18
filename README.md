@@ -3,7 +3,7 @@
 
 
 
-## Step 1 - Basics
+## الخطوة 1 - الأساسيات
 - [HTML](#html)
 - [Command-Line](#line-command)
 - [CSS](#css) 
