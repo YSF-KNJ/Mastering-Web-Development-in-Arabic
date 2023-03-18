@@ -8,16 +8,16 @@
 
 
 ## الخطوة 1 - الأساسيات
-- [HTML](#html)
+- [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 - [Command-Line](#line-command)
-- [CSS](#css) 
+- [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) 
 - [Git & Github](#git--github)
 
 ## الخطوة 2 - قوالب HTML و CSS
-- [HTML & CSS Template 1](#html--css-template-1)
-- [HTML & CSS Template 2](#html--css-template-2)
-- [HTML & CSS Template 3](#html--css-template-3)
-- [HTML & CSS Template 4](#html--css-template-4)
+- [HTML & CSS Template 1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
+- [HTML & CSS Template 2](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t)
+- [HTML & CSS Template 3](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc)
+- [HTML & CSS Template 4](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh)
 
 ## الخطوة 3 - لغات البرمجة والإطارات (Frameworks)
 - [JavaScript](#javascript)
@@ -27,11 +27,11 @@
 - [Django](#django)
 
 ## الخطوة 4 - المواضيع المتقدمة
-- [Sass](#sass)
-- [Sass Template](#sass-template)
-- [Bootstrap Template](#bootstrap-template)
-- [Vue.js](#vuejs)
-- [TypeScript](#typescript)
+- [Sass](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
+- [Sass Template](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8)
+- [Bootstrap Template](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
+- [Vue.js](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw)
+- [TypeScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
 - [Sqlite3](#sqlite3)
 - [FastApi](#fastapi)
 - [MongoDb](#MongoDb)
