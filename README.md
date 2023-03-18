@@ -58,4 +58,4 @@
 - [Ebrahem](https://www.youtube.com/@Zigoo0)
 
 ## [ Full-Stack Python - منصة سطر التعليمية ](https://satr.codes/paths/OTZExaETAH/view)
-## [ - جميع الروابط](https://raw.githubusercontent.com/YSF-KNJ/Mastering-Web-Development-in-Arabic/main/links.txt)
+## [ ALL LINKS - جميع الروابط ](https://raw.githubusercontent.com/YSF-KNJ/Mastering-Web-Development-in-Arabic/main/links.txt)
