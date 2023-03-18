@@ -15,14 +15,14 @@
 - [HTML & CSS Template 3](#html--css-template-3)
 - [HTML & CSS Template 4](#html--css-template-4)
 
-## Step 3 - Programming Languages and Frameworks
+## الخطوة 3 - لغات البرمجة والإطارات (Frameworks)
 - [JavaScript](#javascript)
 - [Python](#python)
 - [Sql](#sql)
 - [Flask](#flask)
 - [Django](#django)
 
-## Step 4 - Advanced Topics
+## الخطوة 4 - المواضيع المتقدمة
 - [Sass](#sass)
 - [Sass Template](#sass-template)
 - [Bootstrap Template](#bootstrap-template)
@@ -32,7 +32,7 @@
 - [FastApi](#fastapi)
 - [MongoDb](#MongoDb)
 
-## Other Topics
+## مواضيع أخرى
 - [Linux](#linux)
 - [CCNA](#ccna)
 - [Penetration Testing](#penetration-testing)
@@ -40,4 +40,6 @@
 
 ## الرحلة التي لا تنتهي
 من المهم أن نتذكر أن مسار التعلم لتطوير الويب والمواضيع المتعلقة به لاتنتهي. حتى بعد إكمالك لهذه الخطة ، هناك دائمًا المزيد للتعلم وتقنيات جديدة لاكتشافها. استمر في الاستكشاف ولا تتوقف عن التعلم!
+
+## مصادر مهمة
 
