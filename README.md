@@ -9,7 +9,7 @@
 - [CSS](#css) 
 - [Git & Github](#git--github)
 
-## test 
+## الخطوة 2 - قوالب HTML و CSS
 - [HTML & CSS Template 1](#html--css-template-1)
 - [HTML & CSS Template 2](#html--css-template-2)
 - [HTML & CSS Template 3](#html--css-template-3)
