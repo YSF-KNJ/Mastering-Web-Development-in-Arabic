@@ -36,6 +36,6 @@ A Step-by-Step Learning Plan
 - [Penetration Testing](#penetration-testing)
 - [Security](#security)
 
-## The Journey That Never Ends
-It's important to remember that the learning path for web development never really ends. Even after mastering the topics listed in this plan, there is always more to learn and new technologies to discover. Keep exploring and never stop learning! 
+## الرحلة التي لا تنتهي
+من المهم أن نتذكر أن مسار التعلم لتطوير الويب والمواضيع المتعلقة به لاتنتهي. حتى بعد إكمالك لهذه الخطة ، هناك دائمًا المزيد للتعلم وتقنيات جديدة لاكتشافها. استمر في الاستكشاف ولا تتوقف عن التعلم!
 
