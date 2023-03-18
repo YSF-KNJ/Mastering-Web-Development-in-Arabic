@@ -1,5 +1,7 @@
-# Mastering-Web-Development-in-Arabic
-A Step-by-Step Learning Plan
+# تعلُّمُ تَطويرِ الويب بإتقانٍ
+خطة تعلم خطوة بخطوة
+
+
 
 ## Step 1 - Basics
 - [HTML](#html)
