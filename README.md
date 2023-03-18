@@ -42,7 +42,7 @@
 - [Linux](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg)
 - [CCNA](https://www.youtube.com/playlist?list=PLpwHU9rNXAVurp2h2Jh-cd4-8XjkT5osu)
 - [Web Application Penetration Testing](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj)
-- [Security]
+- [Security](https://www.youtube.com/playlist?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO)
 
 ## الرحلة التي لا تنتهي
 من المهم أن نتذكر أن مسار التعلم لتطوير الويب والمواضيع المتعلقة به لاتنتهي. حتى بعد إكمالك لهذه الخطة ، هناك دائمًا المزيد للتعلم وتقنيات جديدة لاكتشافها. استمر في الاستكشاف ولا تتوقف عن التعلم!
