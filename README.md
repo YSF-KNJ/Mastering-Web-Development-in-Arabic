@@ -32,7 +32,7 @@
 - [Bootstrap Template](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
 - [Vue.js](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw)
 - [TypeScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
-- [Sqlite3]
+- [Sqlite3](https://www.youtube.com/playlist?list=PL2opeqXBU7T27XTcJXTEvTOU7jHXFU-6c)
 - [FastApi]
 - [MongoDb]
 
