@@ -36,6 +36,7 @@
 - [FastApi]
 - [MongoDb]
 - [Requests]
+- [Beuatifulsuop]
 
 
 ## مواضيع أخرى
