@@ -35,8 +35,8 @@
 - [Vue.js](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw)
 - [TypeScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
 - [Sqlite3](https://www.youtube.com/playlist?list=PL2opeqXBU7T27XTcJXTEvTOU7jHXFU-6c)
-- [FastApi]
-- [MongoDb]
+- [FastApi](https://www.youtube.com/playlist?list=PLYymOhvP9Z6_mVLPKEHh8QY3MFUutF70U)
+- [MongoDb](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd)
 
 
 
