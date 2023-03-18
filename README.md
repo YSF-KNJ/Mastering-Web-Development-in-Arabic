@@ -1,6 +1,5 @@
 # Mastering-Web-Development-in-Arabic
 A Step-by-Step Learning Plan
-# Web Development Learning Plan
 
 ## Step 1 - Basics
 - [HTML](#html)
