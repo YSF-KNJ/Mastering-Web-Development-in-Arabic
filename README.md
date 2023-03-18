@@ -25,7 +25,7 @@
 - [SQL 1](https://satr.codes/courses/FtkmhtJpQW/view)
 - [SQL 2](https://satr.codes/courses/APjgdQqVWR/view)
 - [SQL 3](https://satr.codes/courses/bOXiOFzkMv/view)
-- [Flask]
+- [Flask](https://www.youtube.com/playlist?list=PLERK-IFf1vWjIVAfU-bNXgcZghedx13gF)
 - [Django](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ)
 
 ## الخطوة 4 - المواضيع المتقدمة
