@@ -9,9 +9,9 @@
 
 ## الخطوة 1 - الأساسيات
 - [HTML](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
-- [Command-Line](#line-command)
+- [Command-Line](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
 - [CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) 
-- [Git & Github](#git--github)
+- [Git & Github](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
 ## الخطوة 2 - قوالب HTML و CSS
 - [HTML & CSS Template 1](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
@@ -20,11 +20,11 @@
 - [HTML & CSS Template 4](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh)
 
 ## الخطوة 3 - لغات البرمجة والإطارات (Frameworks)
-- [JavaScript](#javascript)
+- [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 - [Python](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
-- [Sql](#sql)
-- [Flask](#flask)
-- [Django](#django)
+- [Sql]
+- [Flask]
+- [Django]
 
 ## الخطوة 4 - المواضيع المتقدمة
 - [Sass](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
@@ -32,15 +32,15 @@
 - [Bootstrap Template](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
 - [Vue.js](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw)
 - [TypeScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ)
-- [Sqlite3](#sqlite3)
-- [FastApi](#fastapi)
-- [MongoDb](#MongoDb)
+- [Sqlite3]
+- [FastApi]
+- [MongoDb]
 
 ## مواضيع أخرى
-- [Linux](#linux)
-- [CCNA](#ccna)
-- [Penetration Testing](#penetration-testing)
-- [Security](#security)
+- [Linux]
+- [CCNA](https://www.youtube.com/playlist?list=PLpwHU9rNXAVurp2h2Jh-cd4-8XjkT5osu)
+- [Web Application Penetration Testing](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj)
+- [Security]
 
 ## الرحلة التي لا تنتهي
 من المهم أن نتذكر أن مسار التعلم لتطوير الويب والمواضيع المتعلقة به لاتنتهي. حتى بعد إكمالك لهذه الخطة ، هناك دائمًا المزيد للتعلم وتقنيات جديدة لاكتشافها. استمر في الاستكشاف ولا تتوقف عن التعلم!
