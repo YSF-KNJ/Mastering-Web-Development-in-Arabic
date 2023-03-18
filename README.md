@@ -35,6 +35,8 @@
 - [Sqlite3]
 - [FastApi]
 - [MongoDb]
+- [Requests]
+
 
 ## مواضيع أخرى
 - [Linux]
