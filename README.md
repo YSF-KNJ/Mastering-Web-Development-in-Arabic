@@ -21,7 +21,7 @@
 
 ## الخطوة 3 - لغات البرمجة والإطارات (Frameworks)
 - [JavaScript](#javascript)
-- [Python](#python)
+- [Python](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 - [Sql](#sql)
 - [Flask](#flask)
 - [Django](#django)
@@ -32,7 +32,7 @@
 - [Bootstrap Template](#bootstrap-template)
 - [Vue.js](#vuejs)
 - [TypeScript](#typescript)
-- [MySQL](#mysql)
+- [Sqlite3](#sqlite3)
 - [FastApi](#fastapi)
 - [MongoDb](#MongoDb)
 
