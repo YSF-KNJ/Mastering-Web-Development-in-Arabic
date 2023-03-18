@@ -22,7 +22,9 @@
 ## الخطوة 3 - لغات البرمجة والإطارات (Frameworks)
 - [JavaScript](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 - [Python](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
-- [Sql]
+- [SQL][1] (https://satr.codes/courses/FtkmhtJpQW/view)
+- [SQL][2] (https://satr.codes/courses/APjgdQqVWR/view)
+- [SQL][3] (https://satr.codes/courses/bOXiOFzkMv/view)
 - [Flask]
 - [Django]
 
