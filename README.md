@@ -39,7 +39,7 @@
 
 
 ## مواضيع أخرى
-- [Linux]
+- [Linux](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg)
 - [CCNA](https://www.youtube.com/playlist?list=PLpwHU9rNXAVurp2h2Jh-cd4-8XjkT5osu)
 - [Web Application Penetration Testing](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj)
 - [Security]
