@@ -37,7 +37,7 @@
 - [Sqlite3](https://www.youtube.com/playlist?list=PL2opeqXBU7T27XTcJXTEvTOU7jHXFU-6c)
 - [FastApi](https://www.youtube.com/playlist?list=PLYymOhvP9Z6_mVLPKEHh8QY3MFUutF70U)
 - [MongoDb](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd)
-
+- [SQLAlchemy]
 
 
 ## مواضيع أخرى
